@@ -1,0 +1,43 @@
+{
+  "name": "jsveditor",
+  "version": "0.0.1",
+  "description": "Видеоредактор на JS - мечта, или реальность? За последние несколько лет человечество выпустило множество профессиональных, полупрофессиональных и любительских видеоредакторов, но нужно было сделать это на JS. Разумеется, сам процесс рендеринга видео не будет написан на JS, так как современные интерпретаторы крайне медленны в этом плане. Но в остольном будет использоваться JavaScript ;)",
+  "main": "jsveditor.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PROPHESSOR/JsVEditor.git"
+  },
+  "keywords": [
+    "video",
+    "editor",
+    "js",
+    "javascript",
+    "ffmpeg",
+    "frontend",
+    "backend",
+    "video",
+    "editor",
+    "on",
+    "javascript",
+    "linux",
+    "windows",
+    "android",
+    "osx",
+    "macos",
+    "ios",
+    "mobile",
+    "pc",
+    "PROPHESSOR"
+  ],
+  "author": "PROPHESSOR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PROPHESSOR/JsVEditor/issues"
+  },
+  "homepage": "https://github.com/PROPHESSOR/JsVEditor#readme"
+}
